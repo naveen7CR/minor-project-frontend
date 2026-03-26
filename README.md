@@ -1,1 +1,1 @@
-# minor-project-frontend
+# think-tank
